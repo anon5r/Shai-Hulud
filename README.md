@@ -1,2 +1,1 @@
-# Shai-Hulud
-DUMMY Shai-Hulud Repository
+Fake Shai-Hulud Repository
